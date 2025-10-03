@@ -5,19 +5,19 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "At Freesh, we believe that great food begins with the finest ingredients. Every dish is prepared with fresh, locally sourced produce, ensuring rich flavors and uncompromised nutrition." 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
                 "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "description": "At Freesh, we believe that super taste comes from freshness. Every recipe is crafted with locally sourced ingredients, delivering bold flavors and unmatched satisfaction." 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
                 "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "At Freesh, we ensure fast and reliable delivery, so your favorite meals reach you hot, fresh, and right on time — bringing taste and convenience straight to your doorstep." 
             }
         ],
         "dishes": [
